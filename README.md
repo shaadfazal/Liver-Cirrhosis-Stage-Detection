@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 
-This project focuses on predicting the **stage of liver cirrhosis** in patients using machine learning. It implements a pipeline for data preprocessing, feature encoding, scaling, and classification using the **XGBoost Classifier**. The model outputs predictions for three distinct cirrhosis stages based on structured medical data.
+This project focuses on predicting the **stage of liver cirrhosis** in patients using machine learning. The entire pipeline is implemented in the Jupyter Notebook **`liver_project.ipynb`**, which covers data preprocessing, feature encoding, scaling, and classification using the **XGBoost Classifier**. The model predicts one of three liver cirrhosis stages based on clinical data.
 
 ---
 
